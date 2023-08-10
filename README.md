@@ -42,6 +42,9 @@ MIT License
 
 Copyright (c) 2023 Joao Paulo Uba F.
 
+#
+#
+
 # Exercício Flutter Singleton
 
 Este projeto demonstra o Padrão de Design Singleton no Flutter, construindo um contador de sequência com uma única instância de um gerador de sequência.
